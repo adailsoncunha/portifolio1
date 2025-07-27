@@ -158,3 +158,10 @@ span{
     line-height: 1.2;
 
 }
+.sobre-content h3{
+    font-size: 2.6rem;
+}
+.sobre-content p{
+    font-size: 1.6rem;
+    margin: 2rem 0 3rem;
+}
